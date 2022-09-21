@@ -11,3 +11,15 @@ Its also a movie
 To Stream: the movie ID (rent or buy)
 
 product: MovieID(can be NULL)
+
+
+
+Domains Needed:
+
+First Name
+
+Last name
+
+date(DOB)
+
+date time stamp
