@@ -1,0 +1,23 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742125::Definition,1073742126::Name,1075849056::Physical Data Type,1075849148::Comments,1075849176::Physical Name,1075849452::Domain Parent
+1075838983::33,String,Domain,,String,varchar(20),,String,<default>
+1075838983::34,Number,Domain,,Number,integer,,Number,<default>
+1075838983::35,Datetime,Domain,,Datetime,datetime,,Datetime,<default>
+1075838983::36,Blob,Domain,,Blob,varbinary,,Blob,<default>
+1075838983::127,ID,Domain,Integer used to identify an entity's instance,ID,int,Integer used to identify an entity's instance,ID,Number
+1075838983::128,FirstName,Domain,String with a person's first name,FirstName,varchar(20),String with a person's first name,FirstName,String
+1075838983::129,LastName,Domain,String with a person's last name,LastName,varchar(20),String with a person's last name,LastName,String
+1075838983::130,Address,Domain,String with an address,Address,varchar(30),String with an address,Address,String
+1075838983::131,FullName,Domain,A person's Full Name,Director,varchar(40),A person's Full Name,Director,String
+1075838983::132,City,Domain,The name of a city,City,varchar(20),The name of a city,City,String
+1075838983::134,State,Domain,2 letter state code,State,char(2),2 letter state code,State,String
+1075838983::135,Title,Domain,The title of a film,Title,varchar(50),The title of a film,Title,String
+1075838983::136,ZipCode,Domain,5 digit zipcode,ZipCode,char(5),5 digit zipcode,ZipCode,String
+1075838983::137,Phone,Domain,10 digit phone number,Phone,varchar(10),10 digit phone number,Phone,String
+1075838983::1166,TimeStamp,Domain,a date and time record,TimeStamp,datetime,a date and time record,TimeStamp,Datetime
+1075838983::1167,DOB,Domain,a date of a person's birth,DOB,date,a date of a person's birth,DOB,Datetime
+1075838983::1168,Date,Domain,a date,Date,date,a date,Date,Datetime
+1075838983::1169,ExpiryDate,Domain,The expiration date of a movie license,ExpiryDate,datetime,The expiration date of a movie license,ExpiryDate,Datetime
+1075838983::1170,Price,Domain,The cost of a product,Price,float,The cost of a product,Price,Number
+1075838983::1171,Quantity,Domain,The quantity of products being purchased,Quantity,smallint,The quantity of products being purchased,Quantity,Number
+1075838983::1173,ProductName,Domain,The name of a product,ProductName,varchar(30),The name of a product,ProductName,String
+1075838983::1174,Genre,Domain,A movie genre,Genre,varchar(15),A movie genre,Genre,String
