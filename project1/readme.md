@@ -4,6 +4,14 @@ eMovies is a data model with Logical and Physical models that describe an outdat
 
 The purpose of this project is to rework the models into a modern format
 
+`Submission Video v1 BlackBoard`
+
+<a href="https://bbhosted.cuny.edu/webapps/assignment/uploadAssignment?course_id=_2188140_1&content_id=_70625575_1&mode=DEFAULT&currentAttemptIndex=2&attempt_id=_141771406_1#" title="eMovies Reworked"><img src="https://github.com/adrianmnh/dm-vm/raw/mainBranch/eMovies/LOGICAL.jpg" alt="BlackBoard link" width=100px/></a>
+
+`Submission Video v1 GoogleDrive`
+
+<a href="https://drive.google.com/file/d/1CM1FJJYBrqyxCldJN0Mcd0Y1VMcKwdBe/view?usp=sharing" title="eMovies Reworked"><img src="https://github.com/adrianmnh/dm-vm/raw/mainBranch/eMovies/LOGICAL.jpg" alt="GoogleDrive link" width=100px/></a>
+
 ## Features of my Models
 
 - [X] Includes a Conceptual Model
