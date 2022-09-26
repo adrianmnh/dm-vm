@@ -22,14 +22,16 @@ Excel to create spreadsheets that I used to import and export data into the mode
 
 github for version control, making my project portable
 
-OBS record my screen and Movie editor to collect all video snippets together
+OBS to record my screen and Movie editor to compile all video snippets together
 
 
 --- Add Transition CARD ---
 
 First up is the Conceptual Data
 
-This model features and overview of the business objects and rules such as
+This model features and overview of the business objects, which are the entities and their definitions
+
+as well as business rules. These rules are the foundation of the logical model, as they specify what each entity can or cannot do
 
 A film or MOVIE can be watched by a customer with a license through a movie stream
 
@@ -44,3 +46,4 @@ A customer places an order, which is placed at at Store,
 a Store is employs Employees and
 
 A Store is managed by employees
+
