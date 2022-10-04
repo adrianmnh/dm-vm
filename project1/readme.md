@@ -28,6 +28,15 @@ The purpose of this project is to rework the models into a modern format
 - [X] Default values for non null attributes
 - [X] Constraints for attributes
 - [X] Different methods of payments, multi payment feature
+
+### Conceptual Data Model without Payment entities
+<img src="https://raw.githubusercontent.com/adrianmnh/dm-vm/mainBranch/project1/Diagrams/ConceptualModel.png" >
+
+### Logical Data Model with multi-payment methods
+<img src="https://raw.githubusercontent.com/adrianmnh/dm-vm/mainBranch/project1/Diagrams/LogicalModel.png" >
+
+### Physical Data Model with Attributes and Columns
+<img src="https://raw.githubusercontent.com/adrianmnh/dm-vm/mainBranch/project1/Diagrams/PhysicalModel.png" >
   
 
 Business Definitions
