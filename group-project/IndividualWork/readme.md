@@ -1,6 +1,6 @@
 Create a description up 2 - 6 sentences long for each number assigned.
-- [ ] 4. List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.
-- [ ] 5. List business processes or systems which will be impacted by this project and describe how they will be affected.
+- [x] 4. List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.
+- [x] 5. List business processes or systems which will be impacted by this project and describe how they will be affected.
 - [x] 6. Describe any specific components that are excluded from this project.
 
 ---
